@@ -35,7 +35,6 @@ This Power BI dashboard provides an interactive and visual analysis of global sa
 ## 📂 File
 
 - `po.pbix` – Power BI report file  
-- (Optional) `dashboard.png` – Screenshot of the report
 
 ---
 
